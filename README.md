@@ -10,7 +10,7 @@ Hubot brings you a torrent magnet.
 
 ```
 me> hubot 마그넷 뽀로로
-hubot> 뽀로로 5기* `magnet:?xt=urn:btih:2631adbf45677b4e7dce2d510e0e4c9c3fde8e55 
+hubot> 뽀로로 5기* `magnet:?xt=urn:btih:2631adbf45677b4e7dce2d510e0e4c9c3fde8e55`
 ```
 
 ## Screenshot on Slack
