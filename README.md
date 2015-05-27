@@ -1,4 +1,4 @@
-# Hubot-Torrent
+# Hubot-Magnet
 
 Hubot brings you a torrent magnet.
 
