@@ -1,6 +1,6 @@
 {
   "name": "hubot-magnet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Search on torrentproject and get the first result",
   "main": "index.coffee",
   "scripts": {
